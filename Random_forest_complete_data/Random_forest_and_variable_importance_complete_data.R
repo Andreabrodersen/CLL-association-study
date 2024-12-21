@@ -191,7 +191,7 @@ ggplot(df_ImpData_sum_single, aes(x = Var.Names, y = Max)) +
 
 
 #predicting DSSs from flow COMBO------
-set.seed(4321)
+set.seed(3003)
 
 colnames(rf_df_flow_combo_na_omit)=gsub("\\(|\\)|\\-|\\/|\\&|\\.","", colnames(rf_df_flow_combo_na_omit))
 column_names <- colnames(rf_df_flow_combo_na_omit)
