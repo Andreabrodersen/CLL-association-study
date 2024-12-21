@@ -1,5 +1,7 @@
 # CLL-association-study
 
+## The followig files and scripts have been used to generate the figures related to association analyises in the paper _"A functional prognostic model predicts progression free survival for ibrutinib + venetoclax treated relapsed CLL"_ and are shared to be available for use on other cohorts  
+
 **Associations_DSSs** - R script and input files to perform Wilcoxon Rank Sum tests on drug sensitivities related to binarized mutations and files needed to run the analysis. 
 
 **Associations_pFlow** - R script and input files to perform Wilcoxon Rank Sum tests on phospho flow data related to binarized mutations and files needed to run the analysis.
